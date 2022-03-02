@@ -1,29 +1,69 @@
-# Next.js + Tailwind CSS Example
+<h1 align="center">CMS_BLOG</h1>
 
-This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
+<div align="center">
 
-It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-mode) for Tailwind CSS.
+[![CMS_blog](https://img.shields.io/badge/shopshop-name-orange.svg)](https://cms-blog-rose.vercel.app)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]()
+[![GitHub Pull Requests](https://img.shields.io/badge/live-link-informational.svg)](https://cms-blog-rose.vercel.app)
 
-## Preview
+</div>
 
-Preview the example live on [StackBlitz](http://stackblitz.com/):
+<p align="center"> A fully functional Blog application using GraphQL.
+    <br> 
+</p>
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/vercel/next.js/tree/canary/examples/with-tailwindcss)
+## [Live link](https://cms-blog-rose.vercel.app "Live link")
 
-## Deploy your own
+## 📷 Screenshots <a name = "ScreenShots"></a>
 
-Deploy the example using [Vercel](https://vercel.com?utm_source=github&utm_medium=readme&utm_campaign=next-example):
+<br>
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss&project-name=with-tailwindcss&repository-name=with-tailwindcss)
+![Home Page](public/1.png)
 
-## How to use
+![Comment Section](public/2.png)
 
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
+## ⛓️ Dependencies <a name = "dependencies"></a>
 
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
+<br>
+
+- "graphql": "^16.0.1",
+- "graphql-request": "^3.6.1",
+- "html-react-parser": "^1.4.0",
+- "moment": "^2.29.1",
+- "next": "latest",
+- "react": "^17.0.2",
+- "react-dom": "^17.0.2",
+- "react-multi-carousel": "^2.6.5",
+- "sass": "^1.43.4"
+- "autoprefixer": "^10.2.6",
+- "postcss": "^8.3.5",
+- "tailwindcss": "^2.2.4"
+
+<br>
+
+## 🏁 Getting Started <a name = "getting_started"></a>
+
+These instructions will get you a copy of the project up and running on your local machine for development
+and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+
+### Installing
+
+```
+npm install
 ```
 
-Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
+## 🎈 Usage <a name="usage"></a>
+
+```
+npm run dev
+```
+
+## ⛏️ Built With <a name = "tech_stack"></a>
+
+- [Next.js](https://nextjs.org) - Front-end JavaScript library
+- [Tailwind CSS](https://tailwindcss.com) - Css Framework
+- [GraphCMS](https://graphcms.com) - Back-end
+
+## ✍️ Authors <a name = "authors"></a>
+
+- [Youssef Sahli](https://github.com/Myduzo)
